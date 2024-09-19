@@ -1,0 +1,17 @@
+/* Navbar */
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F55A5A;
+    padding: 10px 10px;
+}
+
+.nav > img{
+    padding-right: 10px;    
+}
+
+.nav > h2{
+    color: white;
+}

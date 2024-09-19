@@ -6,8 +6,8 @@ export function MainElements(props) {
       </div>
 
       <div className="col-md-9 pe-5">
-        <img src="./pin.png" />
-        <a href={props.e.map}>
+        <img src="./pin.png" className="pin pe-2" />
+        <a href={props.e.map} className="map">
           <small>View on Google Maps</small>
         </a>
         <div className="col-md-12">

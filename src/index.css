@@ -15,3 +15,26 @@
 .nav > h2{
     color: white;
 }
+
+/* Main */
+
+.row{
+    padding: 20px 20px;    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#row-img{
+    width: 300px;
+    height: auto;
+    margin-bottom: 15px;
+}
+
+.pin{
+    width: 17px;
+}
+
+.map{
+    color: gray;
+}
